@@ -1,5 +1,5 @@
 # set-card -game
-Multithread version of the known game of "Set". This is an assignment part of SPL course in my Bachelor degree. I have implanted the "Dealer", "Table", and "Player" classes. And game logics. 
+Multithread version of the known game of "Set". This is an assignment part of SPL course in my Bachelor degree. I have implemented the "Dealer", "Table", and "Player" classes., And the game logics. 
 ## about 
 game Flow : The game contains a deck of 81 cards. Each card contains a drawing with four features (color,number, shape, shading).
 The game starts with 12 drawn cards from the deck that are placed on a 3x4 grid on the table.
